@@ -1051,3 +1051,326 @@ div .introduce-11
         font-size: 15px !important;
     }
 }
+
+@media(min-width:1525px)
+{
+
+    .logo {
+        position: fixed;
+        top: 0;
+        margin-top: 30px;
+  }
+  .logo img
+  {
+    line-height: 61px;
+    position: fixed;
+    float: left;
+    margin: 0px 179px;
+    padding-left: 0px;
+    color: #fff;
+    font-size: 30px;
+    letter-spacing: 2px;
+    max-width: 100%;
+    height: 79px;
+  }
+    .introduce-11 h4 {
+        padding: 150px 25px 25px 25px;
+        font-family: Nunito, sans-serif;
+        font-size: 42px;
+        font-weight: 400;
+        font: lighter;
+        line-height: 10px;
+    }
+    nav 
+    {
+       background-color: #EFFCF8;
+    }
+
+    nav ul {
+          max-height: 0px;
+          background: #000000;
+          
+    }
+    nav ul li a
+    {
+        text-decoration: none;
+        margin: 00px;
+        
+    }
+    
+    nav ul li {
+        display: inline-block;
+        padding: 8px 8px;
+        margin-top: 0;
+        font-size: 13px;
+        font-weight: 500;
+    }
+    nav.black ul {
+          background: #000000;
+    }
+    .t-number-11
+    {
+        padding-left: 150px;
+        padding-top: 150px;
+        margin-bottom: 10px;
+    }
+    .t-number-11 h4 
+    {
+        font-size: 35px;
+        padding-bottom: 51px;
+    }
+    .t-number-11 p
+    {
+    font-size: 23px;
+     line-height: 23px;
+     padding-bottom: 10px;
+     margin:0;
+    }
+    .img-20 img {
+        width: 89%;
+        height: 401px;
+        margin-left: -101px;
+        margin-top: 76px;
+    }
+    .introduce-11 .btn {
+        margin-bottom: 25px;
+        width: 175px;
+        height: 42px;
+    }
+    .t-number-0 h2 {
+        text-align: center;
+        font-size: 34px;
+        font-weight: 500;
+        font-family: 'Nunito', sans-serif;
+    }
+    .mb-0 {
+        background-color: #FFFFFF;
+        line-height: 39px;
+        padding: 90px 111px 118px 102px;
+        margin-left: 252px;
+        margin-right: 248px;
+        justify-content: center;
+    } 
+    .t-number-1
+    {
+        padding-left: 100px;
+        padding-bottom: 50px;
+    }
+   .t-number-1 p {
+       font-size: 21px;
+       line-height: 13px;
+       /* padding-bottom: 11px; */
+   }
+   .t-number-1 h4 {
+    font-size: 29px;
+    padding-bottom: 55px;
+    padding-top: 81px;
+   }
+.introducing-Tnumber  li
+{
+    font-size: 20px;
+    /* padding-top: 25px; */
+}
+.img-1 img {
+    width: 100%;
+    height: 500px;
+    margin-left: -196px;
+    margin-top: 41px
+} 
+
+.img-2 img {
+    max-width: 100%;
+    height: 400px;
+    padding-left: 253px;
+}
+ 
+.t-number-2 h4,p
+{
+    margin-right: 150px;
+}
+.t-number-2 introduce-2privacy {
+    margin-right: 150px;
+}
+.t-number-3{
+    padding-left: 180px;
+    padding-top:80px;
+}
+.img-3 img {
+    width: 85%;
+    height: 466px;
+    margin-left: -149px;
+    margin-top: 41px;
+}
+.img-4 img {
+    max-width: 100%;
+    height: 460px;
+    padding-right: 15px;
+    padding-left: 317px;
+}
+
+ 
+.t-number-5 h4
+{
+   padding-left: 150px;
+   padding-top: 100px;
+}
+.t-number-5 p
+{
+   padding-left: 150px;
+}
+.t-number-5 ul
+{
+   padding-left: 150px;
+}
+.dating-application {
+    padding: 20px 30px;
+    margin-left: 11px;
+    padding-left: 136px;
+}
+ 
+.img-8 img {
+    width: 80%;
+    height: 439px;
+    margin-left: -167px;
+    margin-top: 45px;
+
+}
+.introduce-6
+{
+    padding-right: 191px;
+}
+.introduce-6 h4
+{
+    padding-top: 50px;
+}
+ 
+.img-6 img {
+    max-width: 100%;
+    height: 431px;
+    padding-left: 180px;
+}
+
+.t-number-7 
+{
+    padding-left: 120px;
+}
+
+.img-7 img {
+    height: 390px;
+    width: 545px;
+    margin-left: -145px;
+    margin-top: 18px;
+}
+.sec-easy-number {
+ 
+   padding: 0px 320px 1px 174px;
+}
+.introduce-8 p {
+    font-family: Muli, sans-serif;
+    font-size: 13px;
+    text-align: center;
+    justify-content: center;
+    margin: 0;
+}
+.t-number-8 h2
+{
+    text-align: center;
+    margin-right: 115px;
+    margin-top: 10px;
+    font-size: 29px;
+
+}
+.people-card
+{
+   padding:29px 358px 30px 282px;
+}
+.t-number-9 h2 {
+    text-align: center;
+    padding: 39px 74px 43px -5px;
+    font-size: 29px;
+    font-weight: 900;
+}
+.t-number-price-card p {
+    font-size: 15px;
+    font-weight: 600;
+    text-align: center;
+    margin:0;
+}
+.introduce-10 h6 {
+    font: weight 900px;;
+    margin-top: 50px;
+    padding-right: 105px;
+}
+.introduce-10 h6 {
+    color: #000;
+    font-size: 23px;
+     
+    text-align: center;
+    text-shadow: -1 0 0px;
+    padding-top: 72px;
+    font-family: 'Nunito', sans-serif;
+}
+.t-number-10 
+{
+    text-align: center;
+}
+.business > button {
+    margin-top: 0px;
+}
+.bussiness-btn {
+    font-weight: 700;
+    margin-left:-147px;
+}
+.introduce-10 p {
+    padding: 20px;
+    color: black;
+    font-size: 22px;
+    font-weight: 900;
+}
+.introduce-10 h3 {
+    font-size: 23px;
+    padding: 8px;
+    font-weight: 900;
+    color: black;
+    font-family: 'Nunito', sans-serif;
+    margin-right: 144px;
+}
+.introduce-10 h4 {
+    font-size: 15px;
+    padding: 8px;
+    font-weight: 600;
+    color: black;
+    margin-right: 144px;
+}
+.introduce-10 span img 
+{
+    margin: 12px 58px -7px -57px;
+    justify-content: center;
+}
+.img-fluid {
+    max-width: 81%;
+    height: auto;
+}
+.footer-middle {
+    padding:36px 342px 107px 141px !important;
+}
+.footer-heading h3 
+{
+   margin-bottom: 25px;
+}
+.landing-cards
+{
+    padding: 33px 394px 23px 285px;
+    margin-left: -170px;
+    margin-bottom:66px;;
+}
+}
+
+
+
+
+
+
+
+
+
