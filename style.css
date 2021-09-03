@@ -1127,19 +1127,19 @@ div .introduce-11
      margin:0;
     }
     .img-20 img {
-        width: 89%;
-        height: 401px;
-        margin-left: -101px;
-        margin-top: 76px;
+        width: auto;
+        height: 478px;
+        margin-left: -23px;
+        margin-top: 40px;
     }
     .introduce-11 .btn {
         margin-bottom: 25px;
-        width: 175px;
-        height: 42px;
+        width: 187px;
+        height: 51px;
     }
     .t-number-0 h2 {
         text-align: center;
-        font-size: 34px;
+        font-size: 33px;
         font-weight: 500;
         font-family: 'Nunito', sans-serif;
     }
@@ -1153,13 +1153,14 @@ div .introduce-11
     } 
     .t-number-1
     {
-        padding-left: 100px;
-        padding-bottom: 50px;
+        padding-left: 155px;
+        padding-bottom: 0px;
     }
    .t-number-1 p {
-       font-size: 21px;
-       line-height: 13px;
-       /* padding-bottom: 11px; */
+    font-size: 18px;
+    line-height: 9px;
+    /* padding-bottom: 11px;
+   */
    }
    .t-number-1 h4 {
     font-size: 29px;
@@ -1168,25 +1169,29 @@ div .introduce-11
    }
 .introducing-Tnumber  li
 {
-    font-size: 20px;
+    font-size: 17px;
     /* padding-top: 25px; */
 }
 .img-1 img {
     width: 100%;
     height: 500px;
-    margin-left: -196px;
+    margin-left: -69px;
     margin-top: 41px
 } 
 
 .img-2 img {
-    max-width: 100%;
-    height: 400px;
-    padding-left: 253px;
+    width: auto;
+    height: 429px;
+    padding-left: 298px;
 }
  
-.t-number-2 h4,p
+.t-number-2 h4
 {
-    margin-right: 150px;
+    padding-left: 24px;
+}
+.t-number-2 p
+{
+    padding-left: 24px;
 }
 .t-number-2 introduce-2privacy {
     margin-right: 150px;
@@ -1195,10 +1200,25 @@ div .introduce-11
     padding-left: 180px;
     padding-top:80px;
 }
+.introduce-3 h4 
+{
+    font-size: 28px;
+    font-weight: 600;
+    line-height: 10px;
+}
+.introduce-3 p 
+{
+    font-size: 15px;
+}
+.messaging li 
+
+{
+    font-size: 15px;
+}
 .img-3 img {
-    width: 85%;
-    height: 466px;
-    margin-left: -149px;
+    width: 90%;
+    height: 468px;
+    margin-left: -69px;
     margin-top: 41px;
 }
 .img-4 img {
@@ -1207,20 +1227,47 @@ div .introduce-11
     padding-right: 15px;
     padding-left: 317px;
 }
-
- 
+.t-number-4 
+{
+    padding-top: 90px;
+}
+.t-number-4 p 
+{
+    padding-left: 0;
+}
+.introduce-4 h4 
+{
+    padding: 1px 0 20px 0px;
+    line-height: 10px;
+    margin-top: 18px;
+    font-size: 25px;
+}
+.t-number-5 
+{
+    padding-top: 4px;
+    padding-left: 31px;
+}
 .t-number-5 h4
 {
-   padding-left: 150px;
+   padding-left: 152px;
    padding-top: 100px;
+   font-size: 27px;
 }
 .t-number-5 p
 {
-   padding-left: 150px;
+    padding-left: 152px;
+    font-size: 15px;
+    line-height: 20px;
 }
 .t-number-5 ul
 {
    padding-left: 150px;
+}
+
+ 
+.dating li 
+{
+    font-size: 15px;
 }
 .dating-application {
     padding: 20px 30px;
@@ -1232,38 +1279,60 @@ div .introduce-11
     width: 80%;
     height: 439px;
     margin-left: -167px;
-    margin-top: 45px;
+    margin-top: 51px;
 
 }
 .introduce-6
 {
     padding-right: 191px;
+    padding-bottom: 75px;
+}
+.introduce-6 p
+{
+    font-size: 15px;
+    padding-right: 77px;
 }
 .introduce-6 h4
 {
     padding-top: 50px;
+    font-size: 24px;
+}
+.buy li 
+{
+    font-size: 15px;
 }
  
 .img-6 img {
     max-width: 100%;
     height: 431px;
-    padding-left: 180px;
+    padding-left: 231px;
 }
 
 .t-number-7 
 {
-    padding-left: 120px;
+    padding-left: 193px;
 }
-
+.introduce-7 h4 {
+ 
+    font-size: 25px;
+     
+}
+.introduce-7 p {
+    font-size: 17px;
+    padding-right: 98px;
+}
+.share li 
+{
+    font-size: 16px;
+}
 .img-7 img {
-    height: 390px;
-    width: 545px;
-    margin-left: -145px;
+    height: 396px;
+    width: 586px;
+    margin-left: -71px;
     margin-top: 18px;
 }
 .sec-easy-number {
- 
-   padding: 0px 320px 1px 174px;
+    padding: 9px 143px 16px 182px;
 }
 .introduce-8 p {
     font-family: Muli, sans-serif;
@@ -1276,13 +1345,14 @@ div .introduce-11
 {
     text-align: center;
     margin-right: 115px;
-    margin-top: 10px;
+    margin-top: 37px;
     font-size: 29px;
 
 }
 .people-card
 {
-   padding:29px 358px 30px 282px;
+    padding: 33px 217px 30px 212px;
+     
 }
 .t-number-9 h2 {
     text-align: center;
@@ -1291,19 +1361,18 @@ div .introduce-11
     font-weight: 900;
 }
 .t-number-price-card p {
-    font-size: 15px;
+    font-size: 19px;
     font-weight: 600;
     text-align: center;
     margin:0;
 }
 .introduce-10 h6 {
     font: weight 900px;;
-    margin-top: 50px;
-    padding-right: 105px;
+    padding-right: 47px;
 }
 .introduce-10 h6 {
     color: #000;
-    font-size: 23px;
+    font-size: 25px;
      
     text-align: center;
     text-shadow: -1 0 0px;
@@ -1319,13 +1388,14 @@ div .introduce-11
 }
 .bussiness-btn {
     font-weight: 700;
-    margin-left:-147px;
+    margin-left:-83px;
 }
 .introduce-10 p {
     padding: 20px;
     color: black;
     font-size: 22px;
     font-weight: 900;
+    padding-right: 96px
 }
 .introduce-10 h3 {
     font-size: 23px;
@@ -1336,11 +1406,11 @@ div .introduce-11
     margin-right: 144px;
 }
 .introduce-10 h4 {
-    font-size: 15px;
+    font-size: 18px;
     padding: 8px;
     font-weight: 600;
     color: black;
-    margin-right: 144px;
+    margin-right: 87px
 }
 .introduce-10 span img 
 {
@@ -1352,11 +1422,18 @@ div .introduce-11
     height: auto;
 }
 .footer-middle {
-    padding:36px 342px 107px 141px !important;
+   padding: 44px 112px 4px 240px !important;
 }
 .footer-heading h3 
 {
    margin-bottom: 25px;
+}
+.footer-heading {
+    font-size: 15px;
+}
+.list-unstyled li
+{
+    font-size: 14px;
 }
 .landing-cards
 {
